@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - ObjectMapper (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftSpinner (2.2.0)
+  - SwiftyJSON (5.0.1)
+  - TPKeyboardAvoiding (1.3.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireImage (~> 3.1)
+  - ObjectMapper
+  - SVProgressHUD
+  - SwiftSpinner
+  - SwiftyJSON
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - ObjectMapper
+    - SVProgressHUD
+    - SwiftSpinner
+    - SwiftyJSON
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  TPKeyboardAvoiding: d55b3ea7b362540af8fcf36aa3ed2e87bf210cc6
+
+PODFILE CHECKSUM: 237d9ab1e2d0b28360af04886d8fb89e6e6ab890
+
+COCOAPODS: 1.11.3
